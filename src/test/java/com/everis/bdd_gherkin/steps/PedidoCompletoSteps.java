@@ -13,5 +13,7 @@ public class PedidoCompletoSteps {
         String validaTexto = pedidoCompletoPage.getValidaTexto().getText();
 
         Assert.assertEquals(pedidoCompleto, validaTexto);
+
+        pedidoCompletoPage.quit();
     }
 }

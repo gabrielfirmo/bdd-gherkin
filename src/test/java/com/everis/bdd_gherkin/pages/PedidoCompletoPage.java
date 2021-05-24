@@ -16,4 +16,7 @@ public class PedidoCompletoPage extends BasePage{
     public WebElement getValidaTexto() {
         return validaTexto;
     }
+    public void quit(){
+        driver.quit();
+    }
 }
