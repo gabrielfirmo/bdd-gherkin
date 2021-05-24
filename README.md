@@ -20,4 +20,4 @@ Para executá-lo basta clonar o repositório e por meio de alguma IDE, com supor
 
 ### Vídeo de demonstração:
 
-[![Watch the video](https://github.com/gabrielfirmo/bdd-gherkin/blob/master/thumb.png)](https://github.com/gabrielfirmo/bdd-gherkin/blob/master/video.mp4)
+[!Watch the video](https://user-images.githubusercontent.com/48038742/119360984-8dc17100-bc81-11eb-80fb-3260d0bf9cd5.mp4)
